@@ -1,0 +1,7 @@
+cvxpy
+pyportfolioopt
+yfinance
+pandas
+numpy
+matplotlib
+streamlit
